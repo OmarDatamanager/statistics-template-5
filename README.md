@@ -12,7 +12,6 @@ Detta är en **testversion** för att skapa ett git-repo använder GitHub Deskto
 
 3. Anpassningar:
    - Skapade `README.md` (denna fil)
-   - Uppdaterade `.gitignore` för att undvika `node_modules/`
    - Inga andra ändringar i koden ännu
 
 ## Nästa steg:
